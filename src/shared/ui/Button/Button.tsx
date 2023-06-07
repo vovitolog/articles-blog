@@ -1,6 +1,5 @@
 import { classNames } from 'shared/lib/classNames/classNames';
 import { ButtonHTMLAttributes, FC } from 'react';
-import * as trace_events from 'trace_events';
 import cls from './Button.module.scss';
 
 export enum ButtonTheme {
