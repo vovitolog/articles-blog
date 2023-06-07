@@ -1,0 +1,1 @@
+[![linting, testing, building](https://github.com/vovitolog/articles-blog/actions/workflows/main.yml/badge.svg)](https://github.com/vovitolog/articles-blog/actions/workflows/main.yml)
