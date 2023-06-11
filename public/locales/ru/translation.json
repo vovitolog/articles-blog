@@ -8,5 +8,7 @@
   "Обновить страницу": "Обновить страницу",
   "throw error": "throw error",
   "Переключить": "Переключить",
-  "Короткий язык" : "Ru"
+  "Короткий язык" : "Ru",
+  "increment": "increment",
+  "decrement": "decrement"
 }
