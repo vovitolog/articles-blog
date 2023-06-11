@@ -10,5 +10,6 @@
   "Переключить": "Переключить",
   "Короткий язык" : "Ru",
   "increment": "increment",
-  "decrement": "decrement"
+  "decrement": "decrement",
+  "value": "значение"
 }
